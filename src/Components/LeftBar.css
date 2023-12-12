@@ -1,0 +1,25 @@
+.left-bar{
+    padding: 20px;
+    flex-direction: column;
+    background-color: black;
+    height: 100vh;
+    margin-left: 10px;
+    position:sticky;
+    color: white;
+}
+
+select{
+    border-radius: 7px;
+    padding: 3px;
+    font-size: large;
+    
+}
+option{
+    border-radius: 7px;
+    padding:2px;
+    font-size: large;
+    
+}
+input{
+    border-radius: 7px;
+}
